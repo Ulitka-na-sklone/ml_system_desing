@@ -324,7 +324,8 @@
 
 ### 4.7. Integration points
 
-
+Диаграмма взаимодействия между сервисами
+![Integration Points](IntegrationPoints.png)
 
 ### 4.8. Риски
 
