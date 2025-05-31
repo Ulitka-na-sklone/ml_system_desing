@@ -84,6 +84,7 @@
 ### 2.2. Блок-схема решения
 
 ![Product schema](Product_schema.png)
+
 Product schema
 
 ### 2.3. Этапы решения задачи
@@ -301,15 +302,19 @@ Product schema
 ## 4. Внедрение для production систем
 ### 4.1. Архитектура решения
 ![Диаграмма активностей](ActivityDiagram.png)
+
 Диаграмма активностей
 
 ![ER диаграмма](ERDiagram.png)
+
 ER диаграмма
 
 ![Use Case Diagram](UseCaseDiagram.png)
+
 Use Case Diagram
 
 ![Component Diagram](ComponentDiagram.png)
+
 Component Diagram
 
 ### 4.2. Описание инфраструктуры и масштабируемости
@@ -414,9 +419,9 @@ Component Diagram
 
 ### 4.7. Integration points
 
-Диаграмма взаимодействия между сервисами
 ![Integration Points](IntegrationPoints.png)
-Integration Points
+
+Диаграмма взаимодействия между сервисами
 
 ### 4.8. Риски
 
